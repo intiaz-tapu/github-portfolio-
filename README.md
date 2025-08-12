@@ -28,11 +28,18 @@
 ---
 
 ## 🎓 Education
-| Degree | Institution | Year | Result |
-|--------|-------------|------|--------|
-| **B.Sc. in Computer Science & Engineering** | Southeast University | Graduated | CGPA 3.20 |
-| **HSC (Science)** | Naogaon Govt College | 2019 | GPA 3.44 |
-| **SSC (Science)** | Professor MEH Arif School | 2017 | GPA 5.00 |
+
+🎓 **B.Sc. in Computer Science & Engineering**  
+*Southeast University* — Graduated  
+📊 CGPA: **3.20**  
+
+🏫 **Higher Secondary Certificate (Science)**  
+*Naogaon Govt College* — 2019  
+📊 GPA: **3.44**  
+
+🏫 **Secondary School Certificate (Science)**  
+*Professor MEH Arif School* — 2017  
+📊 GPA: **5.00**  
 
 ---
 
