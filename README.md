@@ -70,12 +70,4 @@
 
 ---
 
-## 📌 Projects
-*(Replace with actual GitHub/Live links)*  
-- 🌍 **Portfolio Website** – Personal portfolio showcasing my skills and work.  
-- 🏫 **Satkania Govt. College Website (Frontend)** – Designed and developed the frontend.  
-- 💼 **Orion Group Internship Project** – Responsive corporate website pages.
-
----
-
 💡 *“Great design is invisible. Great code is reliable.”*
