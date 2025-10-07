@@ -36,8 +36,6 @@
 
 ### 🌐 Featured Projects
 
----
-
 ### 🚀 Orion Clone Website
 **Description:** Responsive clone of Orion site with smooth animations.  
 **Tech:** 
