@@ -55,8 +55,9 @@
 ### 💼 Portfolio Website
 **Description:** Showcases projects, skills & contact info.  
 **Tech:** 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel.svg" width="24" height="24" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="24" height="24" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="24" height="24" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24" height="24" /> 
 **Live Demo:** [🔗 Visit](https://intiaz-portfolio.vercel.app)
 
 ---
@@ -91,11 +92,6 @@
 
 ---
 
-
----
-
-
-
 ---
 
 ### 🧾 Education
@@ -114,19 +110,5 @@ Southeast University — *CGPA: 3.20 (Completed: Oct 2024)*
 </p>
 
 ---
-
-### ⚡ Fun Fact
-> “Building modern, responsive, and user-friendly web experiences — one project at a time.”  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=intiaz-tapu&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intiaz-tapu&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=intiaz-tapu&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
-</p>
 
 
