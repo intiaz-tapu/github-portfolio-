@@ -76,3 +76,46 @@ Southeast University — *CGPA: 3.20 (Completed: Oct 2024)*
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=intiaz-tapu&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
 </p>
+
+
+# 🚀 Project Name
+
+A short, one-line summary about the project.
+
+---
+
+## 🖥️ Preview
+![Project Preview](preview.png) <!-- optional, can add screenshot later -->
+
+---
+
+## 🧠 Overview
+Explain in 2–3 lines what this project does and why you built it.  
+Example: “This project demonstrates my ability to build responsive, modern UIs with clean layouts and smooth user experience.”
+
+---
+
+## 🛠️ Tech Stack
+HTML • CSS • JavaScript • (Tailwind/React if used)
+
+---
+
+## ✨ Features
+- Responsive design  
+- Smooth UI animations  
+- Organized, clean code  
+- (Add any special feature: e.g. date scheduling, gallery, etc.)
+
+---
+
+## 🔗 Live Demo
+👉 [Live Site](https://example.vercel.app)
+
+---
+
+## 📦 Installation
+If you want to run locally:
+```bash
+git clone https://github.com/intiaz-tapu/project-name.git
+cd project-name
+# open index.html
