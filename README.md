@@ -104,25 +104,5 @@ Southeast University — *CGPA: 3.20 (Completed: Oct 2024)*
 
 ### 📫 Connect With Me
 
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:intiaztapu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" height="28" />
-  </a>
-  <a href="https://linkedin.com/in/intiaz-hossen">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5" height="28" />
-  </a>
-  <a href="https://github.com/intiaz-tapu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" height="28" />
-  </a>
-  <a href="https://intiaz-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=vercel&logoColor=white&labelColor=0ea5e9" height="28" />
-  </a>
-</p>
-
-
-
-
 ---
 
