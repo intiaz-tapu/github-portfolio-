@@ -34,65 +34,15 @@
 
 ---
 
-# 💼 Orion Clone Website
+### 🌐 Featured Projects
 
-A responsive clone of the Orion site with animations and interactive UI elements.  
-👉 [Live Demo](https://orion-clone.vercel.app)
-
-**Tech:** HTML • CSS • JavaScript  
-
-**Highlights:**
-- Orion-style UI  
-- Smooth transitions  
-- Reusable, clean code
-
-# 🌐 Portfolio Website
-
-My personal portfolio showcasing projects, skills, and contact info.  
-👉 [Live Demo](https://intiaz-portfolio.vercel.app)
-
-**Tech:** HTML • CSS • JavaScript  
-
-**Highlights:**
-- Responsive layout  
-- Interactive sections  
-- Clean, modern design
-
-# ☕ Coffee Shop Website
-
-A modern coffee shop site with smooth animations, interactive menus, and elegant visuals.  
-👉 [Live Demo](https://coffee-shop-snowy-phi.vercel.app)
-
-**Tech:** HTML • CSS • JavaScript  
-
-**Highlights:**
-- Animated sections  
-- Menu showcase  
-- Mobile-first design
-
-# 🏫 Naogaon Govt. College
-
-Responsive college website featuring notices, gallery, and academic resources.  
-👉 [Live Demo](https://naogaon-govt-college.vercel.app)
-
-**Tech:** HTML • CSS • JavaScript  
-
-**Highlights:**
-- Notice board & gallery  
-- Resource section  
-- Simple, responsive design
-
-# ✅ To-Do List App
-
-A responsive to-do app with task prioritization, date scheduling, and a clean modern UI.  
-👉 [Live Demo](https://to-do-list-weld-pi.vercel.app)
-
-**Tech:** HTML • CSS • JavaScript  
-
-**Highlights:**
-- Add, edit & delete tasks  
-- Task scheduling & priority system  
-- Fully responsive layout
+| 🧩 Project | 📝 Description | 🔗 Live Demo |
+|-------------|----------------|--------------|
+| **Orion Clone Website** | Responsive clone of Orion site with animations. | [🔗 orion-clone.vercel.app](https://orion-clone.vercel.app) |
+| **Portfolio Website** | Showcasing projects, skills, and contact info. | [🔗 intiaz-portfolio.vercel.app](https://intiaz-portfolio.vercel.app) |
+| **Naogaon Govt. College** | Dynamic college site with gallery & notices. | [🔗 naogaon-govt-college.vercel.app](https://naogaon-govt-college.vercel.app) |
+| **Coffee Shop Website** | Full coffee shop site with menus & animations. | [🔗 coffee-shop-snowy-phi.vercel.app](https://coffee-shop-snowy-phi.vercel.app) |
+| **To-Do List App** | Task prioritization, date scheduling & clean UI. | [🔗 to-do-list-weld-pi.vercel.app](https://to-do-list-weld-pi.vercel.app) |
 
 
 ---
