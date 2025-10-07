@@ -78,44 +78,29 @@ Southeast University — *CGPA: 3.20 (Completed: Oct 2024)*
 </p>
 
 
-# 🚀 Project Name
+# ☕ Coffee Shop Website
 
-A short, one-line summary about the project.
-
----
-
-## 🖥️ Preview
-![Project Preview](preview.png) <!-- optional, can add screenshot later -->
+A modern coffee shop website with interactive menus, animations, and smooth page transitions.
 
 ---
 
 ## 🧠 Overview
-Explain in 2–3 lines what this project does and why you built it.  
-Example: “This project demonstrates my ability to build responsive, modern UIs with clean layouts and smooth user experience.”
+Built to showcase a café’s brand identity through an elegant web design. It features animations, menu highlights, and responsive layouts for all devices.
 
 ---
 
 ## 🛠️ Tech Stack
-HTML • CSS • JavaScript • (Tailwind/React if used)
+HTML • CSS • JavaScript
 
 ---
 
 ## ✨ Features
-- Responsive design  
-- Smooth UI animations  
-- Organized, clean code  
-- (Add any special feature: e.g. date scheduling, gallery, etc.)
+- Fully responsive design  
+- Smooth scrolling and animations  
+- Interactive menu section  
+- Clean layout and visuals  
 
 ---
 
 ## 🔗 Live Demo
-👉 [Live Site](https://example.vercel.app)
-
----
-
-## 📦 Installation
-If you want to run locally:
-```bash
-git clone https://github.com/intiaz-tapu/project-name.git
-cd project-name
-# open index.html
+👉 [coffee-shop-snowy-phi.vercel.app](https://coffee-shop-snowy-phi.vercel.app)
