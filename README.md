@@ -78,29 +78,14 @@ Southeast University — *CGPA: 3.20 (Completed: Oct 2024)*
 </p>
 
 
-# ☕ Coffee Shop Website
+# 💼 Orion Clone Website
 
-A modern coffee shop website with interactive menus, animations, and smooth page transitions.
+A responsive clone of the Orion site with animations and interactive UI elements.  
+👉 [Live Demo](https://orion-clone.vercel.app)
 
----
+**Tech:** HTML • CSS • JavaScript  
 
-## 🧠 Overview
-Built to showcase a café’s brand identity through an elegant web design. It features animations, menu highlights, and responsive layouts for all devices.
-
----
-
-## 🛠️ Tech Stack
-HTML • CSS • JavaScript
-
----
-
-## ✨ Features
-- Fully responsive design  
-- Smooth scrolling and animations  
-- Interactive menu section  
-- Clean layout and visuals  
-
----
-
-## 🔗 Live Demo
-👉 [coffee-shop-snowy-phi.vercel.app](https://coffee-shop-snowy-phi.vercel.app)
+**Highlights:**
+- Orion-style UI  
+- Smooth transitions  
+- Reusable, clean code
