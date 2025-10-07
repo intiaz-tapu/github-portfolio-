@@ -74,7 +74,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24" height="24" />  
 **Live Demo:** [🔗 Visit](https://coffee-shop-snowy-phi.vercel.app)
 
-
+--
 
 ### 📝 To-Do List App
 **Description:** Task prioritization, date scheduling & clean UI.  
@@ -101,8 +101,6 @@ Southeast University — *CGPA: 3.20 (Completed: Oct 2024)*
   <a href="https://github.com/intiaz-tapu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://intiaz-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
-
-### 📫 Connect With Me
 
 ---
 
