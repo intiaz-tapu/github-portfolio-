@@ -38,38 +38,59 @@
 
 ---
 
+### 🌐 Featured Projects
+
+---
+
 ### 🚀 Orion Clone Website
 **Description:** Responsive clone of Orion site with smooth animations.  
-**Tech:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
+**Tech:** 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="24" height="24" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="24" height="24" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24" height="24" />  
 **Live Demo:** [🔗 Visit](https://orion-clone.vercel.app)
 
 ---
 
 ### 💼 Portfolio Website
 **Description:** Showcases projects, skills & contact info.  
-**Tech:** ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+**Tech:** 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel.svg" width="24" height="24" />  
 **Live Demo:** [🔗 Visit](https://intiaz-portfolio.vercel.app)
 
 ---
 
 ### 🏫 Naogaon Govt. College
 **Description:** Dynamic college site with gallery & notices.  
-**Tech:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
+**Tech:** 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="24" height="24" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="24" height="24" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24" height="24" />  
 **Live Demo:** [🔗 Visit](https://naogaon-govt-college.vercel.app)
 
 ---
 
 ### ☕ Coffee Shop Website
 **Description:** Full coffee shop site with menus & animations.  
-**Tech:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
+**Tech:** 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="24" height="24" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="24" height="24" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24" height="24" />  
 **Live Demo:** [🔗 Visit](https://coffee-shop-snowy-phi.vercel.app)
 
 ---
 
 ### 📝 To-Do List App
 **Description:** Task prioritization, date scheduling & clean UI.  
-**Tech:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
+**Tech:** 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="24" height="24" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="24" height="24" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24" height="24" />  
 **Live Demo:** [🔗 Visit](https://to-do-list-weld-pi.vercel.app)
+
+---
+
 
 ---
 
