@@ -44,7 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24" height="24" />  
 **Live Demo:** [🔗 Visit](https://orion-clone.vercel.app)
 
----
+
 
 ### 💼 Portfolio Website
 **Description:** Showcases projects, skills & contact info.  
@@ -54,7 +54,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24" height="24" /> 
 **Live Demo:** [🔗 Visit](https://intiaz-portfolio.vercel.app)
 
----
+
 
 ### 🏫 Naogaon Govt. College
 **Description:** Dynamic college site with gallery & notices.  
@@ -64,7 +64,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24" height="24" />  
 **Live Demo:** [🔗 Visit](https://naogaon-govt-college.vercel.app)
 
----
+
 
 ### ☕ Coffee Shop Website
 **Description:** Full coffee shop site with menus & animations.  
@@ -74,7 +74,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24" height="24" />  
 **Live Demo:** [🔗 Visit](https://coffee-shop-snowy-phi.vercel.app)
 
----
+
 
 ### 📝 To-Do List App
 **Description:** Task prioritization, date scheduling & clean UI.  
@@ -86,7 +86,6 @@
 
 ---
 
----
 
 ### 🧾 Education
 🎓 **B.Sc. in Computer Science & Engineering**  
@@ -103,6 +102,6 @@ Southeast University — *CGPA: 3.20 (Completed: Oct 2024)*
   <a href="https://intiaz-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
----
+
 
 
