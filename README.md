@@ -44,7 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24" height="24" />  
 **Live Demo:** [🔗 Visit](https://orion-clone.vercel.app)
 
-
+-
 
 ### 💼 Portfolio Website
 **Description:** Showcases projects, skills & contact info.  
@@ -54,7 +54,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24" height="24" /> 
 **Live Demo:** [🔗 Visit](https://intiaz-portfolio.vercel.app)
 
-
+-
 
 ### 🏫 Naogaon Govt. College
 **Description:** Dynamic college site with gallery & notices.  
@@ -64,7 +64,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24" height="24" />  
 **Live Demo:** [🔗 Visit](https://naogaon-govt-college.vercel.app)
 
-
+-
 
 ### ☕ Coffee Shop Website
 **Description:** Full coffee shop site with menus & animations.  
@@ -74,7 +74,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24" height="24" />  
 **Live Demo:** [🔗 Visit](https://coffee-shop-snowy-phi.vercel.app)
 
---
+-
 
 ### 📝 To-Do List App
 **Description:** Task prioritization, date scheduling & clean UI.  
