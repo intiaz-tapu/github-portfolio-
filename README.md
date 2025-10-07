@@ -36,13 +36,43 @@
 
 ### 🌐 Featured Projects
 
-| 🧩 Project | 📝 Description | 🔗 Live Demo |
-|-------------|----------------|--------------|
-| **Orion Clone Website** | Responsive clone of Orion site with animations. | [🔗 orion-clone.vercel.app](https://orion-clone.vercel.app) |
-| **Portfolio Website** | Showcasing projects, skills, and contact info. | [🔗 intiaz-portfolio.vercel.app](https://intiaz-portfolio.vercel.app) |
-| **Naogaon Govt. College** | Dynamic college site with gallery & notices. | [🔗 naogaon-govt-college.vercel.app](https://naogaon-govt-college.vercel.app) |
-| **Coffee Shop Website** | Full coffee shop site with menus & animations. | [🔗 coffee-shop-snowy-phi.vercel.app](https://coffee-shop-snowy-phi.vercel.app) |
-| **To-Do List App** | Task prioritization, date scheduling & clean UI. | [🔗 to-do-list-weld-pi.vercel.app](https://to-do-list-weld-pi.vercel.app) |
+---
+
+### 🚀 Orion Clone Website
+**Description:** Responsive clone of Orion site with smooth animations.  
+**Tech:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
+**Live Demo:** [🔗 Visit](https://orion-clone.vercel.app)
+
+---
+
+### 💼 Portfolio Website
+**Description:** Showcases projects, skills & contact info.  
+**Tech:** ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+**Live Demo:** [🔗 Visit](https://intiaz-portfolio.vercel.app)
+
+---
+
+### 🏫 Naogaon Govt. College
+**Description:** Dynamic college site with gallery & notices.  
+**Tech:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
+**Live Demo:** [🔗 Visit](https://naogaon-govt-college.vercel.app)
+
+---
+
+### ☕ Coffee Shop Website
+**Description:** Full coffee shop site with menus & animations.  
+**Tech:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
+**Live Demo:** [🔗 Visit](https://coffee-shop-snowy-phi.vercel.app)
+
+---
+
+### 📝 To-Do List App
+**Description:** Task prioritization, date scheduling & clean UI.  
+**Tech:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
+**Live Demo:** [🔗 Visit](https://to-do-list-weld-pi.vercel.app)
+
+---
+
 
 
 ---
