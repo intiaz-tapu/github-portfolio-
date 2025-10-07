@@ -1,80 +1,54 @@
 # 👋 Hi, I'm Md. Intiaz Hossen
 
-💻 **Front-End Developer** | 🎨 **UI/UX Enthusiast** | 🌱 **JavaScript & React Learner**
+🚀 **Frontend Developer | JavaScript & React Enthusiast**
+
+I'm passionate about building clean, responsive, and user-focused web interfaces.  
+Currently growing my expertise in React.js and modern frontend workflows.
 
 ---
 
-## 📞 Contact
-[![Email](https://img.shields.io/badge/Email-intiaztapu%40gmail.com-red?style=flat-square&logo=gmail)](mailto:intiaztapu@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-01617212189-blue?style=flat-square&logo=whatsapp)](tel:01617212189)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-intiaz-hossen-9ab2b42b5)
-[![Location](https://img.shields.io/badge/Dhaka%2C%20Bangladesh-📍-brightgreen?style=flat-square)]()
+## 🛠️ Skills
+
+**Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React.js  
+**Backend:** Node.js  
+**Tools & Others:** Git, GitHub  
 
 ---
 
-## 🎯 Career Objective
-> Passionate **Front-End Developer** seeking to create visually appealing and user-friendly web experiences.  
-> Dedicated to mastering modern web technologies and delivering high-quality solutions for real-world problems.
+## 💼 Experience
 
----
-
-## 👤 About Me
-- 🗓 **Born:** 5 February 2001  
-- 🌐 **Nationality:** Bangladeshi  
-- 💉 **Blood Group:** O+  
-- 🕌 **Religion:** Islam  
-- ✨ **Goal:** Become a **Full-Stack Web Developer**  
+**Front-End Developer Intern — Orion Group IT, Dhaka**  
+📅 *July 2024 – Oct 2024*  
+- Developed reusable, maintainable UI components using HTML, CSS, and JS.  
+- Collaborated with designers to deliver intuitive user experiences.  
+- Optimized sites for mobile-first and responsive layouts.  
 
 ---
 
 ## 🎓 Education
 
-🎓 **B.Sc. in Computer Science & Engineering**  
-*Southeast University* — Graduated  
-📊 CGPA: **3.20**  
-
-🏫 **Higher Secondary Certificate (Science)**  
-*Naogaon Govt College* — 2019  
-📊 GPA: **3.44**  
-
-🏫 **Secondary School Certificate (Science)**  
-*Professor MEH Arif School* — 2017  
-📊 GPA: **5.00**  
+**B.Sc. in Computer Science & Engineering**  
+Southeast University — *CGPA: 3.20 (Completed: Oct 2024)*  
 
 ---
 
-## 💼 Experience
-**Frontend Developer Intern** — *Orion Group*  
-- Developed responsive web pages using **HTML5**, **CSS3**, and **JavaScript**.  
-- Collaborated with designers to create intuitive **UI/UX** experiences.  
-- Worked on optimizing website performance and accessibility.
+## 🌐 Featured Projects
+
+| Project | Description | Live Demo |
+|----------|--------------|-----------|
+| **Orion Clone Website** | Responsive clone of the Orion site with animations. | [orion-clone.vercel.app](https://orion-clone.vercel.app) |
+| **Portfolio Website** | Showcasing projects, skills, and contact info. | [intiaz-portfolio.vercel.app](https://intiaz-portfolio.vercel.app) |
+| **Naogaon Govt. College** | Responsive college site with notices, gallery, and resources. | [naogaon-govt-college.vercel.app](https://naogaon-govt-college.vercel.app) |
+| **Coffee Shop Website** | Full coffee shop site with menus and smooth animations. | [coffee-shop-snowy-phi.vercel.app](https://coffee-shop-snowy-phi.vercel.app) |
+| **To-Do List App** | Task prioritization, scheduling, and clean UI. | [to-do-list-weld-pi.vercel.app](https://to-do-list-weld-pi.vercel.app) |
 
 ---
 
-## 🛠 Skills
-**Frontend Development:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+## 📫 Connect With Me
 
-**Currently Learning:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**Other Skills:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+📧 **Email:** [intiaztapu@gmail.com](mailto:intiaztapu@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/intiaz-hossen) • [GitHub](https://github.com/intiaz-tapu) • [Portfolio](https://intiaz-portfolio.vercel.app)
 
 ---
 
-## 🌐 Languages
-- **Bengali:** Native  
-- **English:** Good communication skills  
-
----
-
-💡 *“Great design is invisible. Great code is reliable.”*
+⭐ **“Building modern, responsive, and user-friendly web experiences — one project at a time.”**
